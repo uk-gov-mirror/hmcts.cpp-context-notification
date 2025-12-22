@@ -22,7 +22,6 @@
         <module>notification-event</module>
         <module>notification-viewstore</module>
         <module>notification-query</module>
-        <module>notification-integration-test</module>
         <module>notification-test-utils</module>
         <module>notification-access-control-providers</module>
         <module>notification-service</module>
