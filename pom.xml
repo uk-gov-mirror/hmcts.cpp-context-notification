@@ -10,7 +10,7 @@
 
     <groupId>uk.gov.moj.cpp.notification</groupId>
     <artifactId>notification-parent</artifactId>
-    <version>17.104.41-PEG-2848-R14-SNAPSHOT</version>
+    <version>17.104.42-PEG-2848-R14-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Notification Context - Parent Module</name>

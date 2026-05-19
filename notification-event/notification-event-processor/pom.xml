@@ -3,7 +3,7 @@
     <parent>
         <artifactId>notification-event</artifactId>
         <groupId>uk.gov.moj.cpp.notification</groupId>
-        <version>17.104.41-PEG-2848-R14-SNAPSHOT</version>
+        <version>17.104.42-PEG-2848-R14-SNAPSHOT</version>
     </parent>
     <artifactId>notification-event-processor</artifactId>
     <description>Notification event processor</description>
