@@ -3,7 +3,7 @@
     <parent>
         <artifactId>notification-viewstore</artifactId>
         <groupId>uk.gov.moj.cpp.notification</groupId>
-        <version>17.104.43-PEG-2848-R14-SNAPSHOT</version>
+        <version>17.104.44-PEG-2848-R14-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
